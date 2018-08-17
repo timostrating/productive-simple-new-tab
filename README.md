@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/timostrating/productive-simple-new-tab/master/icon128.png" alt="productive-simple-new-tab" width="128" height="128">
 </p>
 <p align="center">
-  This is improved version of <a href=https://chrome.google.com/webstore/detail/todoist-new-tab/llkkhbnadepleglebnkgdmidmocbclel"> Todoist New Tab</a> that is availible on the chrome web store.
+  This is an improved version of <a href=https://chrome.google.com/webstore/detail/todoist-new-tab/llkkhbnadepleglebnkgdmidmocbclel"> Todoist New Tab</a> that is availible on the chrome web store.
 </p>
 
 ## Inspired by
