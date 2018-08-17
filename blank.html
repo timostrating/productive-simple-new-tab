@@ -1,0 +1,38 @@
+<html>
+    <head>
+        <title>New Tab</title>
+        <style>
+            iframe::-webkit-scrollbar {
+                display: none;
+            }
+
+            html, body, iframe { 
+                margin: 0;
+                padding: 0;
+                border:0;
+                width: 100%;
+                background-color: #fafafa;
+            }
+
+            #container {
+                max-width: 730px; 
+                height: calc(100% + 40px);
+                overflow: hidden;
+                margin: 0 auto;
+            }
+
+            iframe { 
+                width: 748px; 
+                height: calc(100% + 40px);
+                display: block;
+            }
+
+        </style>
+    </head>
+    <body>
+        <div id="container">
+            <iframe id="iframe" src="https://chrome.todoist.com"></iframe>
+        </div>
+        <script type="text/javascript" src="script.js"></script>
+    </body>
+</html>

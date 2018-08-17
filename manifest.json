@@ -1,0 +1,12 @@
+{
+    "name": "Todoist simple New Tab",
+    "version": "0.1",
+    "description": "This is a simple ToDoIst new tab extension that changes your new tab to a nicely, simple looking todo list",
+    "chrome_url_overrides": {
+        "newtab": "blank.html"
+    },
+    "manifest_version": 2,
+    "icons": {
+        "128": "icon128.png"
+    }
+}
