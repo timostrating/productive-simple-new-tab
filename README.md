@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/timostrating/parkingsimulator/master/icon128.png" alt="productive-simple-new-tab" width="128" height="128">
+  <img src="https://raw.githubusercontent.com/timostrating/productive-simple-new-tab/master/icon128.png" alt="productive-simple-new-tab" width="128" height="128">
 </p>
 <p align="center">
   This is improved version of <a href=https://chrome.google.com/webstore/detail/todoist-new-tab/llkkhbnadepleglebnkgdmidmocbclel"> Todoist New Tab</a> that is availible on the chrome web store.
@@ -14,4 +14,4 @@
 <br/><br/>
 
 ## How it works
-It opens a html page when you open a new tab. This page contains a iframe to chrome.Todoist.com. This iframe is set to a max-with that is a little bit less than tablet. Because of this Todoist will show the mobile version of the website. This way we get a clean and simple version of todoist.
+It opens an HTML page when you open a new tab. This page contains an iframe to chrome.Todoist.com. This iframe is set to a max-with that is a little less than tablet, Because of this Todoist will show the mobile version of the website. This way we get a clean and simple version of Todoist.
