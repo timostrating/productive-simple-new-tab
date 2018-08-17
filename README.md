@@ -15,3 +15,5 @@
 
 ## How it works
 It opens an HTML page when you open a new tab. This page contains an iframe to chrome.Todoist.com. This iframe is set to a max-with that is a little less than tablet, Because of this Todoist will show the mobile version of the website. This way we get a clean and simple version of Todoist.
+
+![](https://raw.githubusercontent.com/timostrating/productive-simple-new-tab/master/img/1.png)
